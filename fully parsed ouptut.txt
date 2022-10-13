@@ -1,0 +1,581 @@
+Test case 1414  DOS time: 0:00:03.851000
+Test case 1414 verdict: Failed
+2021-02-09 13:13:48.043		CAN-FD	1414	Rx	99999999  	8	06 50 03 00 64 01 F4 55              	Instrumentation | Response | Instrumentation response 
+2021-02-09 13:13:48.038		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:47.936		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:47.835		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:47.734		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:47.633		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:47.532		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:47.431		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:47.330		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:47.228		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:47.126		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:47.025		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:46.924		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:46.823		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:46.722		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:46.621		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:46.520		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:46.419		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:46.318		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:46.217		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:46.116		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:46.015		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:45.913		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:45.811		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:45.709		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:45.608		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:45.507		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:45.405		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:45.304		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:45.203		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:45.102		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:45.001		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:44.899		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:44.798		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:44.696		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:44.595		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:44.493		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:44.392		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:44.291		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:44.187		CAN-FD	1414	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Instrumentation after | Instrumentation request 
+2021-02-09 13:13:44.187		CAN-FD	1414	Tx	64C       	3	5F E9 63                             	CAN_FD_raw_frame_invalid_frame | ID1414_cyclic_msg_rate_100_ms |  
+
+
+Test case 1395  DOS time: 0:00:06.171000
+Test case 1395 verdict: Failed
+2021-02-09 13:13:42.335		CAN-FD	1395	Rx	99999999  	8	06 50 03 00 64 01 F4 55              	Instrumentation | Response | Instrumentation response 
+2021-02-09 13:13:42.325		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:42.224		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:42.123		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:42.022		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:41.921		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:41.820		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:41.719		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:41.617		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:41.517		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:41.416		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:41.314		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:41.212		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:41.111		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:41.010		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:40.909		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:40.808		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:40.706		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:40.605		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:40.504		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:40.403		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:40.302		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:40.200		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:40.099		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:39.998		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:39.896		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:39.795		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:39.694		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:39.593		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:39.492		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:39.391		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:39.290		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:39.190		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:39.089		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:38.988		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:38.887		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:38.786		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:38.686		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:38.585		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:38.483		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:38.381		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:38.280		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:38.178		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:38.077		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:37.975		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:37.873		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:37.772		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:37.671		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:37.571		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:37.470		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:37.369		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:37.269		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:37.167		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:37.066		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:36.965		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:36.864		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:36.762		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:36.661		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:36.561		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:36.459		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:36.359		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:36.255		CAN-FD	1395	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Instrumentation after | Instrumentation request 
+2021-02-09 13:13:36.154		CAN-FD	1395	Tx	361       	1	7E                                   	CAN_FD_raw_frame_invalid_frame | ID1395_pseudo_random_pattern_data |  
+
+
+Test case 1283  DOS time: 0:00:03.341000
+Test case 1283 verdict: Failed
+2021-02-09 13:13:26.701		CAN-FD	1283	Rx	99999999  	8	06 50 03 00 64 01 F4 55              	Instrumentation | Response | Instrumentation response 
+2021-02-09 13:13:26.690		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:26.589		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:26.489		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:26.387		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:26.286		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:26.185		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:26.083		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:25.982		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:25.881		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:25.780		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:25.678		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:25.578		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:25.477		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:25.375		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:25.275		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:25.173		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:25.072		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:24.971		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:24.870		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:24.769		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:24.668		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:24.566		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:24.465		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:24.364		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:24.263		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:24.161		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:24.060		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:23.958		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:23.858		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:23.757		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:23.656		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:23.555		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:13:23.450		CAN-FD	1283	Tx	11111111  	8	02 10 03 00 00 00 00 00              	Instrumentation | Instrumentation after | Instrumentation request 
+2021-02-09 13:13:23.349		CAN-FD	1283	Tx	720       	3	5D 99 6E                             	CAN_FD_raw_frame_invalid_frame | ID1283_dlc_=_data |  
+
+
+Test case 784  DOS time: 0:00:03.133000
+Test case 784 verdict: Failed
+2021-02-09 13:12:50.246		CAN-FD	784	Rx	99999999  	8	06 50 03 00 64 01 F4 55               	Instrumentation | Response | Instrumentation response 
+2021-02-09 13:12:50.242		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:50.141		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:50.040		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:49.939		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:49.838		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:49.738		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:49.637		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:49.536		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:49.436		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:49.335		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:49.234		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:49.134		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:49.032		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:48.931		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:48.829		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:48.728		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:48.627		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:48.526		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:48.426		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:48.324		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:48.223		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:48.122		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:48.021		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:47.921		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:47.820		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:47.719		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:47.618		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:47.518		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:47.416		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:47.315		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:47.214		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:47.109		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Instrumentation after | Instrumentation request 
+2021-02-09 13:12:47.109		CAN-FD	784	Tx	746       	6	7E 9D 67 D1 EF BC                     	CAN_FD_raw_frame_invalid_frame | ID784_cyclic_msg_rate_25_ms |  
+
+
+Test case 465  DOS time: 0:00:03.341000
+Test case 465 verdict: Failed
+2021-02-09 13:12:23.889		CAN-FD	465	Rx	99999999  	8	06 50 03 00 64 01 F4 55               	Instrumentation | Response | Instrumentation response 
+2021-02-09 13:12:23.880		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:23.779		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:23.679		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:23.578		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:23.476		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:23.375		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:23.272		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:23.171		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:23.070		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:22.970		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:22.869		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:22.768		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:22.668		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:22.567		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:22.466		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:22.364		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:22.263		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:22.162		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:22.060		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:21.958		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:21.856		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:21.755		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:21.654		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:21.553		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:21.451		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:21.350		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:21.249		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:21.149		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:21.048		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:20.947		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:20.847		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:20.746		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:20.642		CAN-FD	465	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Instrumentation after | Instrumentation request 
+2021-02-09 13:12:20.539		CAN-FD	465	Tx	3A0       	0	                                      	CAN_FD_raw_frame_invalid_frame | ID465_dlc_=_data |  
+
+
+Test case 415  DOS time: 0:00:20.166000
+Test case 415 verdict: Failed
+2021-02-09 13:12:17.097		CAN-FD	415	Rx	99999999  	8	06 50 03 00 64 01 F4 55               	Instrumentation | Response | Instrumentation response 
+2021-02-09 13:12:17.096		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:12.082 EXTERNAL_PC: Powering on DuT and sleeping for additional 5 seconds to allow DuT to boot up.
+2021-02-09 13:12:07.081 EXTERNAL_PC: Executing power cycle on a stuck instrumentation, instrumentation round 100. Powering off DuT and waiting for 5 seconds to boot down.
+2021-02-09 13:12:06.940		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:06.839		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:06.738		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:06.637		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:06.536		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:06.435		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:06.334		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:06.233		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:06.132		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:06.031		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:05.929		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:05.828		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:05.726		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:05.625		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:05.524		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:05.423		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:05.322		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:05.221		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:05.120		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:05.019		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:04.918		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:04.817		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:04.717		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:04.616		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:04.515		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:04.415		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:04.313		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:04.212		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:04.111		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:04.010		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:03.909		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:03.808		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:03.707		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:03.606		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:03.505		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:03.404		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:03.303		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:03.202		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:03.101		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:03.000		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:02.899		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:02.799		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:02.697		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:02.595		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:02.494		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:02.392		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:02.291		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:02.189		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:02.088		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:01.987		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:01.887		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:01.786		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:01.685		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:01.585		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:01.484		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:01.383		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:01.281		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:01.180		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:01.078		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:00.977		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:00.876		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:00.775		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:00.673		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:00.572		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:00.472		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:00.370		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:00.269		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:00.168		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:12:00.067		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:59.966		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:59.865		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:59.764		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:59.663		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:59.562		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:59.460		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:59.359		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:59.259		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:59.157		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:59.055		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:58.955		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:58.854		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:58.753		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:58.652		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:58.551		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:58.451		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:58.350		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:58.249		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:58.148		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:58.046		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:57.945		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:57.844		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:57.743		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:57.642		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:57.541		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:57.439		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:57.339		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:57.237		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:57.137		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:57.036		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:56.931		CAN-FD	415	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Instrumentation after | Instrumentation request 
+2021-02-09 13:11:56.930		CAN-FD	415	Tx	468       	1	94                                    	CAN_FD_raw_frame_invalid_frame | ID415_cyclic_msg_rate_25_ms |  
+
+
+Test case 204  DOS time: 0:00:04.655000
+Test case 204 verdict: Failed
+2021-02-09 13:11:41.881		CAN-FD	204	Rx	99999999  	8	06 50 03 00 64 01 F4 55               	Instrumentation | Response | Instrumentation response 
+2021-02-09 13:11:41.830		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:41.729		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:41.628		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:41.527		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:41.427		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:41.326		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:41.224		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:41.124		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:41.023		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:40.921		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:40.820		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:40.717		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:40.616		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:40.515		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:40.414		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:40.313		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:40.212		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:40.111		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:40.010		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:39.909		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:39.808		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:39.707		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:39.606		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:39.505		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:39.404		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:39.303		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:39.201		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:39.100		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:38.999		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:38.898		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:38.797		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:38.696		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:38.595		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:38.494		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:38.393		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:38.292		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:38.191		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:38.089		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:37.988		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:37.886		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:37.784		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:37.683		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:37.582		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:37.481		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:37.380		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:37.279		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:37.175		CAN-FD	204	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Instrumentation after | Instrumentation request 
+2021-02-09 13:11:37.175		CAN-FD	204	Tx	539       	3	95 83 A8                              	CAN_FD_raw_frame_invalid_frame | ID204_cyclic_msg_rate_50_ms |  
+
+
+Test case 29  DOS time: 0:00:03.646000
+Test case 29 verdict: Failed
+2021-02-09 13:11:25.539		CAN-FD	29	Rx	99999999  	8	06 50 03 00 64 01 F4 55                	Instrumentation | Response | Instrumentation response 
+2021-02-09 13:11:25.532		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:25.431		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:25.330		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:25.229		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:25.129		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:25.028		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:24.927		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:24.825		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:24.724		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:24.622		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:24.522		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:24.420		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:24.320		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:24.218		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:24.116		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:24.015		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:23.914		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:23.812		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:23.712		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:23.610		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:23.509		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:23.408		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:23.306		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:23.205		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:23.104		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:23.003		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:22.902		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:22.801		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:22.700		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:22.598		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:22.497		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:22.397		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:22.296		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:22.194		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:22.093		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:21.991		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:21.886		CAN-FD	29	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Instrumentation after | Instrumentation request 
+2021-02-09 13:11:21.886		CAN-FD	29	Tx	7F9       	8	CB 59 EA 1A 50 16 53 DB                	CAN_FD_raw_frame_invalid_frame | ID29_cyclic_msg_rate_100_ms |  
+
+
+Test case 19  DOS time: 0:00:03.332000
+Test case 19 verdict: Failed
+2021-02-09 13:11:20.879		CAN-FD	19	Rx	99999999  	8	06 50 03 00 64 01 F4 55                	Instrumentation | Response | Instrumentation response 
+2021-02-09 13:11:20.871		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:20.771		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:20.670		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:20.570		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:20.469		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:20.367		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:20.267		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:20.166		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:20.065		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:19.964		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:19.863		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:19.762		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:19.661		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:19.560		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:19.458		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:19.357		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:19.256		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:19.155		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:19.055		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:18.954		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:18.853		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:18.752		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:18.652		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:18.551		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:18.450		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:18.349		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:18.248		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:18.147		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:18.046		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:17.946		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:17.845		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:17.744		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:17.640		CAN-FD	19	Tx	11111111  	8	02 10 03 00 00 00 00 00                	Instrumentation | Instrumentation after | Instrumentation request 
+2021-02-09 13:11:17.539		CAN-FD	19	Tx	7F9       	8	FE 0E FE 00 FE 0F 7E FF                	CAN_FD_raw_frame_invalid_frame | ID19_pseudo_random_pattern_data |  
+
+
+Test case 5  DOS time: 0:00:20.279000
+Test case 5 verdict: Failed
+2021-02-09 13:11:16.637		CAN-FD	5	Rx	99999999  	8	06 50 03 00 64 01 F4 55                 	Instrumentation | Response | Instrumentation response 
+2021-02-09 13:11:16.628		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:11.612 EXTERNAL_PC: Powering on DuT and sleeping for additional 5 seconds to allow DuT to boot up.
+2021-02-09 13:11:06.612 EXTERNAL_PC: Executing power cycle on a stuck instrumentation, instrumentation round 100. Powering off DuT and waiting for 5 seconds to boot down.
+2021-02-09 13:11:06.471		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:06.370		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:06.269		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:06.167		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:06.066		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:05.966		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:05.864		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:05.763		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:05.661		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:05.560		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:05.460		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:05.359		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:05.259		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:05.158		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:05.057		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:04.956		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:04.854		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:04.753		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:04.653		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:04.552		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:04.451		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:04.350		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:04.249		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:04.147		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:04.046		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:03.945		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:03.844		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:03.743		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:03.642		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:03.541		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:03.440		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:03.339		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:03.238		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:03.136		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:03.035		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:02.934		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:02.833		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:02.731		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:02.630		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:02.528		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:02.427		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:02.326		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:02.225		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:02.124		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:02.023		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:01.922		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:01.821		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:01.720		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:01.619		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:01.518		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:01.417		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:01.316		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:01.215		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:01.113		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:01.012		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:00.911		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:00.810		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:00.709		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:00.608		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:00.507		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:00.407		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:00.305		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:00.205		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:00.103		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:11:00.002		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:59.902		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:59.800		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:59.697		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:59.596		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:59.496		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:59.394		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:59.293		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:59.193		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:59.091		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:58.991		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:58.890		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:58.789		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:58.688		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:58.587		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:58.484		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:58.382		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:58.280		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:58.179		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:58.078		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:57.977		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:57.876		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:57.774		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:57.674		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:57.572		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:57.471		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:57.369		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:57.268		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:57.167		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:57.066		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:56.964		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:56.864		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:56.763		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:56.661		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:56.560		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Attempt | Instrumentation request 
+2021-02-09 13:10:56.453		CAN-FD	5	Tx	11111111  	8	02 10 03 00 00 00 00 00                 	Instrumentation | Instrumentation after | Instrumentation request 
+2021-02-09 13:10:56.349		CAN-FD	5	Tx	28C       	1	80                                      	CAN_FD_raw_frame_invalid_frame | ID5_80_based_pattern_data |  
+
+
